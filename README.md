@@ -35,6 +35,8 @@ Are you looking to dive into the fascinating world of web development? YouTube i
 [![Academind](https://img.shields.io/badge/Academind-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/Academind)
 > Academind, led by Maximilian Schwarzmüller, provides high-quality tutorials on web development, covering both front-end and back-end technologies. The channel offers extensive courses on topics like JavaScript, React, Node.js, and more. The videos are well-explained and provide hands-on coding examples.
 
+### 6. Js Mastrey
+
 ## Contributing
 
 Contributions are welcome to keep this list up-to-date and comprehensive. If you have a YouTube channel that focuses on web development and you believe it deserves a spot on this list, please feel free to open a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md) when submitting your suggestions.
