@@ -2,7 +2,7 @@ Best YouTube Channels to Learn Web Development 🌐
 
 Welcome to the "Best YouTube Channels to Learn Web Development" repository! Here, you will find a curated list of the top YouTube channels that offer high-quality web development tutorials, tips, and tricks. Whether you're a beginner or an experienced developer, these channels will help you enhance your skills and stay up-to-date with the latest trends in the web development world.
 
-## Table of Contents 📚🗒️
+## Table of Contents 📚👌
 
 - [Introduction](#introduction)
 - [Channels](#channels)
@@ -35,11 +35,15 @@ Are you looking to dive into the fascinating world of web development? YouTube i
 [![Academind](https://img.shields.io/badge/Academind-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/Academind)
 > Academind, led by Maximilian Schwarzmüller, provides high-quality tutorials on web development, covering both front-end and back-end technologies. The channel offers extensive courses on topics like JavaScript, React, Node.js, and more. The videos are well-explained and provide hands-on coding example.
 
+### 6.Sheryians Coding School 🌐
+[![Academind](https://img.shields.io/badge/Academind-red?style=flat-square&logo=youtube)](https://www.youtube.com/@thesheryianscodingschool)
+> Sheryians Coding School is not so much popular but their content is really amazing. They have provided video lectures of making high quality Awaards websites as well as they also have already created content on the html ,css , Javascript , gsap , canvas.
+
 ## Contributing
 
 Contributions are welcome to keep this list up-to-date and comprehensive. If you have a YouTube channel that focuses on web development and you believe it deserves a spot on this list, please feel free to open a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md) when submitting your suggestions.
 
-## License🔖
+## License
 
 This repository is licensed under the [MIT License](LICENSE.md). You are free to use the content of this repository for educational and non-commercial purposes.
 
