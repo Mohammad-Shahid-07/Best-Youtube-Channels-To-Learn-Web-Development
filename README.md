@@ -16,22 +16,22 @@ Are you looking to dive into the fascinating world of web development? YouTube i
 ## Channels
 
 ### 1. Web Dev Simplified 🌐
-[![Web Dev Simplified](https://img.shields.io/badge/Web%20Dev%20Simplified-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
 
 ### 2. Traversy Media 🌐
-[![Traversy Media](https://img.shields.io/badge/Traversy%20Media-red?style=flat-square&logo=youtube)](https://www.youtube.com/user/TechGuyWeb)
+https://www.youtube.com/user/TechGuyWeb
 
 ### 3. The Net Ninja 🌐
-[![The Net Ninja](https://img.shields.io/badge/The%20Net%20Ninja-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
 
 ### 4. FreeCodeCamp 🌐
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 
 ### 5. Academind 🌐
-[![Academind](https://img.shields.io/badge/Academind-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/Academind)
+https://www.youtube.com/c/Academind
 
 ### 6. Sheryians Coding School 🌐
-[![Sheryians Coding School](https://img.shields.io/badge/Sheryians%20Coding%20School-red?style=flat-square&logo=youtube)](https://www.youtube.com/@thesheryianscodingschool)
+https://www.youtube.com/@thesheryianscodingschool
 
 ## Contributing
 
