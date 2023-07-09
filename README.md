@@ -39,7 +39,7 @@ Are you looking to dive into the fascinating world of web development? YouTube i
 
 Contributions are welcome to keep this list up-to-date and comprehensive. If you have a YouTube channel that focuses on web development and you believe it deserves a spot on this list, please feel free to open a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md) when submitting your suggestions.
 
-## License
+## License🔖
 
 This repository is licensed under the [MIT License](LICENSE.md). You are free to use the content of this repository for educational and non-commercial purposes.
 
