@@ -33,7 +33,7 @@ Are you looking to dive into the fascinating world of web development? YouTube i
 
 ### 5. Academind 🌐
 [![Academind](https://img.shields.io/badge/Academind-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/Academind)
-> Academind, led by Maximilian Schwarzmüller, provides high-quality tutorials on web development, covering both front-end and back-end technologies. The channel offers extensive courses on topics like JavaScript, React, Node.js, and more. The videos are well-explained and provide hands-on coding examples.
+> Academind, led by Maximilian Schwarzmüller, provides high-quality tutorials on web development, covering both front-end and back-end technologies. The channel offers extensive courses on topics like JavaScript, React, Node.js, and more. The videos are well-explained and provide hands-on coding example.
 
 ## Contributing
 
