@@ -37,7 +37,7 @@ Are you looking to dive into the fascinating world of web development? YouTube i
 
 ### 6.Sheryians Coding School 🌐
 [![Academind](https://img.shields.io/badge/Academind-red?style=flat-square&logo=youtube)](https://www.youtube.com/@thesheryianscodingschool)
-> Sheryians Coding School is not so much popular but their content is really amazing. They have provided video lectures of making high quality Awaards websites as well as they also have already created content on the html ,css , Javascript , gsap , canvas.
+> Sheryians Coding School is not so much popular but their content is really amazing. They have provided video lectures of making high quality Awaards websites as well as they also have already created content on the html ,css , Javascript , gsap , canvas. Moreover, The videos are well-explained with great information and the downpoint is that the language is Hindi (not english).
 
 ## Contributing
 
