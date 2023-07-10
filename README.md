@@ -33,6 +33,9 @@ https://www.youtube.com/c/Academind
 ### 6. Sheryians Coding School 🌐
 https://www.youtube.com/@thesheryianscodingschool
 
+### 7. Chai aur Code 🌐
+https://www.youtube.com/@chaiaurcode
+
 ## Contributing
 
 Contributions are welcome to keep this list up-to-date and comprehensive. If you have a YouTube channel that focuses on web development and you believe it deserves a spot on this list, please feel free to open a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md) when submitting your suggestions.
